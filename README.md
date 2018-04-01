@@ -2,7 +2,7 @@
 We claim that this is the simplest To Do list organizer.
 
   
-To list tasks:
+To list tasks type `./todo`:
 ```
 $ todo
 =======================
@@ -12,7 +12,7 @@ $ todo
 =======================
 ```
   
-To add a task:
+To add a task `./todo "<new task>"`:
 
 ```
 $ todo "Do extreme ironing @12:03 p.m"
