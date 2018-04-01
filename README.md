@@ -7,8 +7,8 @@ To list tasks type `./todo`:
 $ todo
 =======================
     TODO:              
-    -> Make a new bridge on bosphorus
-    -> rm -rf /*
+    -> Build a new bridge on bosphorus
+    -> Do: rm -rf /*
 =======================
 ```
   
